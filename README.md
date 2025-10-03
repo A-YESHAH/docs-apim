@@ -1,6 +1,7 @@
 # WSO2 API Manager Documentation
 
-[![slack](https://img.shields.io/badge/slack-wso2--apim-blueviolet)](https://join.slack.com/t/wso2-apim/shared_invite/enQtNzEzMzk5Njc5MzM0LTgwODI3NmQ1MjI0ZDQyMGNmZGI4ZjdkZmI1ZWZmMjNkY2E0NmY3ZmExYjkxYThjNzNkOTU2NWJmYzM4YzZiOWU?)
+[![discord](https://img.shields.io/badge/discord-wso2-blueviolet)](https://discord.com/invite/wso2)
+[![X](https://img.shields.io/badge/X-wso2apimanager-1DA1F2?logo=twitter&logoColor=white)](https://x.com/wso2apimanager?lang=en)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-wso2am-orange)](https://stackoverflow.com/tags/wso2-am/)
 [![Jenkins Build](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fwso2.org%2Fjenkins%2Fview%2Fdocs%2Fjob%2Fdocs%2Fjob%2Fdocs-apim%2F)](https://wso2.org/jenkins/view/docs/job/docs/job/docs-apim)
 
